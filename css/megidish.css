@@ -2,3 +2,7 @@ body {
 	background: #fff url(/images/workstation.jpg) no-repeat;
 	background-size: cover;
 }
+
+.rightContainer {
+	background: none !important;
+}
